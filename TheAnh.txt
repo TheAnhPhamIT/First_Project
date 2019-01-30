@@ -1,1 +1,2 @@
 First line of TheAnh.txt
+Second line of TheAnh.txt
